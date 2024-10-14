@@ -1,0 +1,3 @@
+from generales import *
+
+init()
